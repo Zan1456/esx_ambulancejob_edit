@@ -1,6 +1,6 @@
 # esx_ambulancejob
 
-VERSION: ESX 1.3.0
+VERSION: ESX 1.6.0-1.7.5
 ESX Ambulance Job is an plugin for ESX with features:
 
 - Adds death screen, with early respawn timer and bleed out timer
